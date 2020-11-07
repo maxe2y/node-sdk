@@ -1,0 +1,26 @@
+{
+  "coverage": "98.06%",
+  "expectCount": 155,
+  "actualCount": 152,
+  "files": {
+    "src/Hyperwallet.js": {
+      "expectCount": 113,
+      "actualCount": 113,
+      "undocumentLines": []
+    },
+    "src/utils/ApiClient.js": {
+      "expectCount": 18,
+      "actualCount": 15,
+      "undocumentLines": [
+        71,
+        72,
+        73
+      ]
+    },
+    "src/utils/Encryption.js": {
+      "expectCount": 24,
+      "actualCount": 24,
+      "undocumentLines": []
+    }
+  }
+}
